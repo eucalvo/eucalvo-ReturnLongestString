@@ -1,7 +1,7 @@
 
 public class ReturnLongestString {
     /**
-     * Return the longest String out of arr.
+     * Return the longest String out of arr. 
      * Remember that you can get the length of String with str.length().
      *
      * @param arr an array of Strings.
